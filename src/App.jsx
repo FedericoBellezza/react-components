@@ -8,7 +8,6 @@ function App() {
     <>
       <div className="page-container d-flex flex-column justify-content-between">
         <Header></Header>
-
         <Main></Main>
         <Footer></Footer>
       </div>
